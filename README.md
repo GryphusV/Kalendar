@@ -1,62 +1,63 @@
-# Kalendar
-Demonstrature
+# Kalendar demonstratura
 
-Web aplikacija "insert name here" pomaže profesorima, asistentima, laborantima, studentskoj slubži(referadi) i demonstratorima u izvođenju demonstartura.
+**Web aplikacija "insert name here" pomaže profesorima, asistentima, laborantima, studentskoj slubži(referadi) i demonstratorima u izvođenju demonstartura.**
 
-Profesorima[professor] - odobravanje demonstrature putem online obrazca
-                       - potvrđivanje odrađene demonstrature putem online obrazca
+* Profesorima[professor] 
+    * odobravanje demonstrature putem online obrazca
+    * potvrđivanje odrađene demonstrature putem online obrazca
                        
-Asistentima/laborantima[assistant] - organiziranje studenata demonstratora
-                                   - maksimalno pokrivene demonstrature, rasterečenost tijekom viježbe
+* Asistentima/laborantima[assistant] 
+    * organiziranje studenata demonstratora
+    * maksimalno pokrivene demonstrature, rasterečenost tijekom viježbe
 
-Studentima[student] - lakša organizacija demonstratura sa slobodnim vremenom
-                    - optimalno ispunjavanje satnice
+* Studentima[student]
+    * lakša organizacija demonstratura sa slobodnim vremenom
+    * optimalno ispunjavanje satnice
                     
-Studentskoj službi[referada] - online prikupljanje prijava
+* Studentskoj službi[referada] - online prikupljanje prijava
                             - online prikupljanje izviješća
                             
-#----Pred početak semestra----
-Korak 1
-  Referada otvara poziv za demonstrature - obavijest na home pageu
-  Studentima se šalje mail s linkom
+# ----Pred početak semestra----
+### Korak 1
+  * Referada otvara poziv za demonstrature - obavijest na home pageu
+  * Studentima se šalje mail s linkom
  
- Korak 2
-  Studenti se registriraju - etfos/ferit mail, potencijalno i s AAI
-  Ispunjavaju formu - dohvačanje podataka iz ISVU-a
-  Generira se dokument - šalje se referadi
+### Korak 2
+  * Studenti se registriraju - etfos/ferit mail, potencijalno i s AAI
+  * Ispunjavaju formu - dohvačanje podataka iz ISVU-a
+  * Generira se dokument - šalje se referadi
   
 Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može online u ulozi [prodekan],[profesor],[odbor]
-Korak 3
-  Studenti su obaviješteni o dobivenoj demonstraturi
+### Korak 3
+* Studenti su obaviješteni o dobivenoj demonstraturi
   
-#----Semestar----
-Korak 4
-  Satničar četvrtkom u tjednu X objavljuje raspored za tjedan X+1
-  Korka 5
-  Studnet od četvrtka  16:00 do petka 19:00 ima mogućnost odabrati SVE termine u kojima je slobodan odraditi
-  demonstrature za kolegije[courses] na kojima se nalazi u statusu demonstratora
+# ----Semestar----
+### Korak 4
+* Satničar četvrtkom u tjednu X objavljuje raspored za tjedan X+1
+##  Korak 5
+*  Studnet od četvrtka  16:00 do petka 19:00 ima mogućnost odabrati SVE termine u kojima je slobodan odraditi demonstrature za kolegije[courses] na kojima se nalazi u statusu demonstratora
   
-Korak 6
-  Aplikacija u petak 19:00 generira raspored demonstratora - OPTIMALNO(parametri odrađena satnica, odobrena satnica, mogućnost dolaska i sl)
-  Aplikacija dostavlja mail korisnicima raspored njegovih demonstratura za tjedna X+1
-  Aplikacija u google kalendar dodaje raspored
-  Aplikacija dostavlja mail asistentima raspored demonstratora za njegov kolegij
+### Korak 6
+*  Aplikacija u petak 19:00 generira raspored demonstratora - OPTIMALNO(parametri odrađena satnica, odobrena satnica, mogućnost dolaska i sl)
+ * Aplikacija dostavlja mail korisnicima raspored njegovih demonstratura za tjedna X+1
+ *  Aplikacija u google kalendar dodaje raspored
+  * Aplikacija dostavlja mail asistentima raspored demonstratora za njegov kolegij
   
-Korak 7
-  Ponavlja se sve od koraka 4
+### Korak 7
+ *  Ponavlja se sve od koraka 4
   
- #----Kraj semestra----
- Korak 8
-   Referada postavlja obavijest o podnošenju izvještaja
+# ----Kraj semestra----
+### Korak 8
+  *  Referada postavlja obavijest o podnošenju izvještaja
    
- Korak 9
-   Student ispunjava formu
+### Korak 9
+   * Student ispunjava formu
    
- Korak 10
-   Profesor potvrđuje formu
+### Korak 10
+  *  Profesor potvrđuje formu
    
- Korak 11
-   Referada zaprima potvrđenu("potpisanu") formu
+### Korak 11
+ *   Referada zaprima potvrđenu("potpisanu") formu
  
  
   
