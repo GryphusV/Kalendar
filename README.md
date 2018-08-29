@@ -15,7 +15,7 @@ Studentima[student] - lakša organizacija demonstratura sa slobodnim vremenom
 Studentskoj službi[referada] - online prikupljanje prijava
                             - online prikupljanje izviješća
                             
-----Pred početak semestra----
+#----Pred početak semestra----
 Korak 1
   Referada otvara poziv za demonstrature - obavijest na home pageu
   Studentima se šalje mail s linkom
@@ -29,7 +29,7 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
 Korak 3
   Studenti su obaviješteni o dobivenoj demonstraturi
   
-----Semestar----
+#----Semestar----
 Korak 4
   Satničar četvrtkom u tjednu X objavljuje raspored za tjedan X+1
   Korka 5
@@ -45,7 +45,7 @@ Korak 6
 Korak 7
   Ponavlja se sve od koraka 4
   
- ----Kraj semestra----
+ #----Kraj semestra----
  Korak 8
    Referada postavlja obavijest o podnošenju izvještaja
    
