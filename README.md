@@ -1,5 +1,7 @@
 # Kalendar demonstratura
 
+# IDEJA
+
 **Web aplikacija "insert name here" pomaže profesorima, asistentima, laborantima, studentskoj slubži(referadi) i demonstratorima u izvođenju demonstartura.**
 
 * Profesorima[professor] 
@@ -17,7 +19,7 @@
 * Studentskoj službi[referada] - online prikupljanje prijava
                             - online prikupljanje izviješća
                             
-# ----Pred početak semestra----
+### ---------Pred početak semestra---------
 ### Korak 1
   * Referada otvara poziv za demonstrature - obavijest na home pageu
   * Studentima se šalje mail s linkom
@@ -31,7 +33,7 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
 ### Korak 3
 * Studenti su obaviješteni o dobivenoj demonstraturi
   
-# ----Semestar----
+### ---------Semestar---------
 ### Korak 4
 * Satničar četvrtkom u tjednu X objavljuje raspored za tjedan X+1
 ##  Korak 5
@@ -46,7 +48,7 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
 ### Korak 7
  *  Ponavlja se sve od koraka 4
   
-# ----Kraj semestra----
+### ---------Kraj semestra---------
 ### Korak 8
   *  Referada postavlja obavijest o podnošenju izvještaja
    
@@ -59,5 +61,29 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
 ### Korak 11
  *   Referada zaprima potvrđenu("potpisanu") formu
  
+ # Realizacija
+  
+  ## XAMP
+  ### What is that?
+  ### Instalacija
+  
+  ## PHPStorm
+  ### What is that?
+  * https://www.jetbrains.com/phpstorm/
+  ### Instalacija
+   
+  ## Laravel
+  ### What is that?
+  * PHP web framework 
+  * https://laravel.com/
+  ### Instalacija
+  * https://laravel.com/docs/4.2
+  
  
+  
+  
+  
+  ## Owners
+    * Nikola Stipić
+    * Luka Kruljac
   
