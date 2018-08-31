@@ -80,10 +80,39 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
   * https://laravel.com/docs/4.2
   
  
+  ## Algoritam
   
-  
-  
+  ### Inputi
+1) vježbe(object list):
+*   ime kolegija(string),
+*   id kolegija(int),
+*   redni broj tjedna(int)
+*   termini-vježbe(object list)
+    *   id termina vježbe
+    *   vrijeme početka vježbe
+    *   vrijeme kraj vježbe
+    *   demonstratori = NULL
+     
+2) studnetski termini(object list):
+  *   student
+        *   ime studenta
+        *   id studenta
+        *   odrađen broj sati
+        *   odobrene demonstrature
+            *   kolegij
+                *   id
+                *   ime
+            *   broj sati
+  * id termina vježbi
+ 
+   ### Outputi
+1) termini-vježbe(object list)
+*    id termina vježbe
+*    vrijeme početka vježbe
+*    vrijeme kraj vježbe
+*    demonstratori = student.id
+     
   ## Owners
-    * Nikola Stipić
-    * Luka Kruljac
+* Nikola Stipić
+* Luka Kruljac
   
