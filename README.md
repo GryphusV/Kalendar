@@ -16,8 +16,9 @@
     * lakša organizacija demonstratura sa slobodnim vremenom
     * optimalno ispunjavanje satnice
                     
-* Studentskoj službi[referada] - online prikupljanje prijava
-                            - online prikupljanje izviješća
+* Studentskoj službi[referada] 
+    * online prikupljanje prijava
+    * online prikupljanje izviješća
                             
 ### ---------Pred početak semestra---------
 ### Korak 1
