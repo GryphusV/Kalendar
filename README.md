@@ -65,26 +65,26 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
  # Realizacija
   
   ## XAMP
-  ### What is that?
-  ### Instalacija
+  ##### What is that?
+  ##### Instalacija
   
   ## PHPStorm
-  ### What is that?
+  ##### What is that?
   * https://www.jetbrains.com/phpstorm/
-  ### Instalacija
+  ##### Instalacija
    
   ## Laravel
-  ### What is that?
+  ##### What is that?
   * PHP web framework 
   * https://laravel.com/
-  ### Instalacija
+  ##### Instalacija
   * https://laravel.com/docs/4.2
   
  
   ## Algoritam 
   * Korak 6
   
-  ### Inputi
+  #### Inputi
 1) Laboratorijske vježbe(object list):
 *   ime(string),
 *   redni broj
@@ -113,7 +113,7 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
   *   termin vježbe
         *   id
         
-   ### Outputi
+   #### Outputi
 1) termini-vježbe(object list)
 *    id termina vježbe
 *    vrijeme početka vježbe
