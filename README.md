@@ -37,7 +37,7 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
 ### ---------Semestar---------
 ### Korak 4
 * Satničar četvrtkom u tjednu X objavljuje raspored za tjedan X+1
-##  Korak 5
+###  Korak 5
 *  Studnet od četvrtka  16:00 do petka 19:00 ima mogućnost odabrati SVE termine u kojima je slobodan odraditi demonstrature za kolegije[courses] na kojima se nalazi u statusu demonstratora
   
 ### Korak 6
@@ -81,7 +81,8 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
   * https://laravel.com/docs/4.2
   
  
-  ## Algoritam
+  ## Algoritam 
+  * Korak 6
   
   ### Inputi
 1) Laboratorijske vježbe(object list):
