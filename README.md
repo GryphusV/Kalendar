@@ -83,28 +83,34 @@ Nakon što se odaberu demonstratori(postupak treba ispitati, možda se može onl
   ## Algoritam
   
   ### Inputi
-1) vježbe(object list):
-*   ime kolegija(string),
-*   id kolegija(int),
-*   redni broj tjedna(int)
+1) Laboratorijske vježbe(object list):
+*   ime(string),
+*   redni broj
+*   kolegij
+      *   ime
+      *   id
 *   termini-vježbe(object list)
-    *   id termina vježbe
-    *   vrijeme početka vježbe
-    *   vrijeme kraj vježbe
-    *   demonstratori = NULL
+      *   id
+      *   assistent
+          *    id
+          *    ime
+      *   vrijeme početka
+      *   vrijeme kraj
+      *   demonstratori = NULL
      
-2) studnetski termini(object list):
+2) Raspoloživi studnetski termini(object list):
   *   student
-        *   ime studenta
-        *   id studenta
+        *   ime
+        *   id
         *   odrađen broj sati
         *   odobrene demonstrature
             *   kolegij
                 *   id
                 *   ime
             *   broj sati
-  * id termina vježbi
- 
+  *   termin vježbe
+        *   id
+        
    ### Outputi
 1) termini-vježbe(object list)
 *    id termina vježbe
